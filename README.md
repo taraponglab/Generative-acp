@@ -19,7 +19,7 @@ BioPython: v1.82; AlphaFold v3.0; py3Dmol 2.1.0.
 
 #### License
 
-Copyright (c) [2025] [Dr. Tarapong Srisongkram]
+Copyright (c) [2026] [Dr. Tarapong Srisongkram]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
