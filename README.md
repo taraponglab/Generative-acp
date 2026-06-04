@@ -2,13 +2,15 @@
 
 ![Abstract Graphic](graphic_abstract.png)
 
-#### Huynh Anh Duy*, Tarapong Srisongkram** 
+#### Huynh Anh Duy*, Sastiya Kampaengsri**, Nachapapon Lunda**, Kim Leang Set***, Karnchanok Kaimuangpak***, Kanokwan Jarukamjorn**, Tarapong Srisongkram**
 
 *Graduate School in the Program of Research and Development in Pharmaceuticals, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. 
 
 *Faculty of Health Sciences, College of Natural Sciences, Can Tho University, Vietnam. (huynhanhduy.h@kkumail.com, haduy@ctu.edu.vn)
 
 **Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
+
+***Department of Pharmacology, Faculty of Medicine, Khon Kaen University, Thailand.
 
 Source codes and data set is available in this repository.
 
