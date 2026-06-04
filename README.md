@@ -2,7 +2,7 @@
 
 ![Abstract Graphic](graphic_abstract.png)
 
-#### Huynh Anh Duy*, Sastiya Kampaengsri**, Nachapapon Lunda**, Kim Leang Set***, Karnchanok Kaimuangpak***, Kanokwan Jarukamjorn**, Tarapong Srisongkram**
+#### Huynh Anh Duy*, Sastiya Kampaengsri**, Nachapapon Lunda**, Kimleang Set***, Karnchanok Kaimuangpak***, Kanokwan Jarukamjorn**, Tarapong Srisongkram**
 
 *Graduate School in the Program of Research and Development in Pharmaceuticals, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. 
 
