@@ -1,6 +1,6 @@
 # Deep generative learning and multi-objective screening for the discovery of dual-functional peptides with anticancer and antioxidant activities
 
-![Abstract Graphic](graphic_abstract.png)
+![Abstract Graphic](graphic_abstract.PNG)
 
 #### Huynh Anh Duy*, Sastiya Kampaengsri**, Kimleang Set***, Karnchanok Kaimuangpak***, Kanokwan Jarukamjorn**, Tarapong Srisongkram**
 
